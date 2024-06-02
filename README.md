@@ -4,3 +4,6 @@ LETS MAKE MORE MAGIC THIS MONTH AGAIN DAVID , KEEP GOING!!
 
 JUNE-01-2024
 I need to work on more portfolio projects for my front-end portfolio.
+
+JUNE-02-2024
+
