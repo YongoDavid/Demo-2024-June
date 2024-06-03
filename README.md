@@ -9,3 +9,4 @@ JUNE-02-2024
 Uploading and updating my Github with qwaser projects.
 
 JUNE-03-2024
+Making updates to my new portfolio.
