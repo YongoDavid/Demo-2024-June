@@ -17,3 +17,4 @@ JUNE-04-2024
 Uploaded more qwaser projects.
 Still  working on my New portfolio , i am contomizing the new design.
 Also i started creating thhe Server today , there is still work that needs to be done.
+I also started teaching someone node.js today and its going well.
