@@ -27,4 +27,4 @@ i still need too upload more Qwaser projects on github.
 JUNE-06-2024
 New day , New Grind lets gooooo!!!
 i am going to try and finish building my portfolio today.
-
+All my sillicon valley Season1 C project have now been uploaded to github.
