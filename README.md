@@ -30,4 +30,4 @@ i am going to try and finish building my portfolio today.
 All my sillicon valley Season1 C project have now been uploaded to github.
 
 JUNE-07-2024
-
+Still working on my portfolio.
