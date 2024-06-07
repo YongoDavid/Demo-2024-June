@@ -31,3 +31,4 @@ All my sillicon valley Season1 C project have now been uploaded to github.
 
 JUNE-07-2024
 Still working on my portfolio.
+the form feature on myy porfolio isnt working as it should and it i annoyying me.
