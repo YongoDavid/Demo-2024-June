@@ -33,5 +33,5 @@ JUNE-07-2024
 Still working on my portfolio.
 the form feature on myy porfolio isnt working as it should and it i annoyying me.
 If it keeps delaying me from hosting my portfolio i will compleltely remoove the form
-
+the issue has been fixed , there was some logic interfering with the same class for the form submisson.
 
