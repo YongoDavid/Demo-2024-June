@@ -39,3 +39,4 @@ JUNE-08-2024
 
 JUNE-09-2024
 Dont plan on really doing anything today.
+today is sunday my chill day , so i am just resting.
