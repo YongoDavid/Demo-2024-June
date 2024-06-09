@@ -36,7 +36,7 @@ If it keeps delaying me from hosting my portfolio i will compleltely remoove the
 the issue has been fixed , there was some logic interfering with the same class for the form submisson.
 
 JUNE-08-2024
-
+Worked on my portfolio.
 JUNE-09-2024
 Dont plan on really doing anything today.
 today is sunday my chill day , so i am just resting.
