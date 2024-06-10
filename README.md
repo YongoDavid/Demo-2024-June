@@ -42,3 +42,6 @@ JUNE-09-2024
 Dont plan on really doing anything today.
 today is sunday my chill day , so i am just resting.
 i might review some work , nothing too crazy.
+
+JUNE-10-2024
+Working on my season2 full stack project.
