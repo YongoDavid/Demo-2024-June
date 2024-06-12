@@ -52,3 +52,5 @@ i also need to host the new projects that will be added to my portfolio.
 
 JUNE-11-2024
 Updated my portfolio.
+
+JUNE-12-2024
