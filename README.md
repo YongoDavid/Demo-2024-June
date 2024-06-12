@@ -51,3 +51,4 @@ i am having some issues with the form in my portfolio , but i should resolve tha
 i also need to host the new projects that will be added to my portfolio.
 
 JUNE-11-2024
+Updated my portfolio.
