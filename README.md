@@ -63,3 +63,4 @@ JUNE-13-2024
 Portfolio is 80% done.
 
 JUNE-14-2024
+Udating github with sillicon valley projects.
