@@ -60,3 +60,4 @@ Some portfolio projects have been added , but they are just single paged , i thi
 a more interactive website.
 
 JUNE-13-2024
+Portfolio is 80% done.
