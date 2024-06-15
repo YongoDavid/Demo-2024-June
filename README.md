@@ -68,3 +68,5 @@ its time to host all my projects that i have dislayed on my portfolio.
 
 JUNE-15-2024
 Practiced Node for a while . its always good to go back to some practice.
+Cleaning up my portfolio now and then host it completly after.
+
