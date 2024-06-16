@@ -74,5 +74,5 @@ JUNE-16-2024
 Not doing much today.
 i would be back active by tomorrow.
 more grind more shine!!!.
-i still need to link my clinet side and server side.
+i still need to link my clinet side and server side for my portfolio.
 
