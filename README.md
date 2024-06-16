@@ -71,3 +71,4 @@ Practiced Node for a while . its always good to go back to some practice.
 Cleaning up my portfolio now and then host it completly after.
 
 JUNE-16-2024
+Not doing much today.
