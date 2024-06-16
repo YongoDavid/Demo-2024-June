@@ -73,3 +73,4 @@ Cleaning up my portfolio now and then host it completly after.
 JUNE-16-2024
 Not doing much today.
 i would be back active by tomorrow.
+more grind more shine!!!.
