@@ -76,3 +76,5 @@ i would be back active by tomorrow.
 more grind more shine!!!.
 i still need to link my clinet side and server side for my portfolio.
 and then host the Server side.
+only me will make my portfolioo have a server side.
+
