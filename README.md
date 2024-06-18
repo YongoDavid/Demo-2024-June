@@ -85,5 +85,4 @@ This week we will be spending time on REACT.
 JUNE-18-2024
 New Portfolio Done and ready for any client.
 Both client and Server side are hosted and working 100%.
-
-
+Practing react
