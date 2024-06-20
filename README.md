@@ -97,3 +97,4 @@ JUNE-20-2024
 New day new grind!!!
 Still running some practice for REACT.
 I might change some of my pure HTML and CSS work and replace with REACT.
+i did some SQL today on Qwasar and it was refreshing to go back to SQL for some time.
