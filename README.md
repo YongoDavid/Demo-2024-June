@@ -96,3 +96,4 @@ Making project updates to my sillicon valley projects.
 JUNE-20-2024
 New day new grind!!!
 Still running some practice for REACT.
+I might change some of my pure HTML and CSS work and replace with REACT.
