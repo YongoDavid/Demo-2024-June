@@ -101,3 +101,5 @@ i did some SQL today on Qwasar and it was refreshing to go back to SQL for some 
 
 JUNE-21-2024
 Another Day Another grind!!.
+Refreshed myself understanding again on SQL today through a presentation made.
+
