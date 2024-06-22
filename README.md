@@ -103,3 +103,5 @@ JUNE-21-2024
 Another Day Another grind!!.
 Refreshed myself understanding again on SQL today through a presentation made.
 i alway worked on some SQL project but i have not completed it yet.
+
+JUNE-22-2024
