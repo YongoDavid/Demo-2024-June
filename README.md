@@ -108,4 +108,4 @@ JUNE-22-2024
 New day more grind , lets work some moore today.
 
 JUNE-23-2024
-
+Its sunday , i am meant to not work , but lets put in some work now.
