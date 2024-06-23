@@ -106,3 +106,6 @@ i alway worked on some SQL project but i have not completed it yet.
 
 JUNE-22-2024
 New day more grind , lets work some moore today.
+
+JUNE-23-2024
+
