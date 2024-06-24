@@ -111,3 +111,6 @@ JUNE-23-2024
 Its sunday , i am meant to not work , but lets put in some work now.
 i need to practice some REACT.
 Then uplood some sillicon valley projects.
+
+JUNE-24-2024
+
