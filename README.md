@@ -130,3 +130,4 @@ New dayy new grind.
 Adding more sillicon valley projects to Github.
 Soo far my REACT practice is going well.
 i just need to build more hands on projects with it.
+then level up by building complex react projects.
