@@ -126,4 +126,4 @@ Still practicing mor of REACT for now.
 Also working on some qwasar projects , it has been a bit challenging but i will pull through.
 
 JUNE-27-2024
-New dayy new grind
+New dayy new grind.
