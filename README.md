@@ -129,4 +129,4 @@ JUNE-27-2024
 New dayy new grind.
 Adding more sillicon valley projects to Github.
 Soo far my REACT practice is going well.
-
+i just need to build more hands on projects with it.
