@@ -135,3 +135,4 @@ then level up by building complex react projects.
 JUNE-28-2024
 I need to upload more projects.
 then practice more REACT.
+And lastly prepare for my start up of the week presentation tomorrow.
