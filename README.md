@@ -140,3 +140,4 @@ And lastly prepare for my start up of the week presentation tomorrow.
 JUNE-29-2024
 The month is almost over and the first half of the years as well!!
 Thank God for more work , more days.
+its a new day , lets put in more work!!.
