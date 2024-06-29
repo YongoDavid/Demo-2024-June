@@ -138,3 +138,4 @@ then practice more REACT.
 And lastly prepare for my start up of the week presentation tomorrow.
 
 JUNE-29-2024
+The month is almost over and the first half of the years as well!!
